@@ -32,6 +32,7 @@
  - [x] Move ML Model Into Model’s Folder with name “imagetest.mlmodel” 
  - [x] Implement ML MOdel into ImagePredidictor.swift
 
+
 > Software Documentation 
 
 App:
@@ -46,6 +47,7 @@ Configuration:
 Extensions:
  - CGImagePropertyOrientation+UIImageOrientation.swift - Switch statement for managing image orientation
  - VNClassificationObservation+confidenceString.swift - Function using a switch statement to output percentage confidence of ML
+ - imagetest.mlmodel - ML model
 
 Image Predictor:
  - ImagePredictor.swift - Class for interacting with the MLmodel to create a prediction
@@ -58,10 +60,10 @@ Main View:
  - MainViewController+CameraPicker.swift - utility to take a photo with camera
  - MainViewController+PhotoPicker.swift - utility to use library
  - MainViewController.swift - utility for single and double tap
+ - Base.lproj - visual representation of the user interface of an IOS
 
 Models:
  - LICENSE.txt - Legal documentation
  - NOTICE.txt - Documentation for Authors, link, and license
- - Imagetest.mlmodel - ML model with data 
  
-/TAMU FOOD CLASSIFIER.xcodeproj
+TAMU FOOD CLASSIFIER.xcodeproj - .xcode file (on runtime)
