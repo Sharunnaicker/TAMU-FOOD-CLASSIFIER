@@ -5,5 +5,7 @@
 ## [Austin Hale](https://www.linkedin.com/in/austin-hale-53940622b/)
 ###### A&M HACK JAN 2022
 
+![Logo](https://myoctocat.com/assets/images/base-octocat.svg)
 
+## We have created an `IOS application` that will utilize `AI/ML` to determine the exact food `via a photo`.
 
