@@ -11,7 +11,6 @@
 ## We have created an `IOS application` that will utilize `AI/ML` to determine the exact food `via a photo`.
 
 > Features
-- [x] #1
 - [x] The program will be able to upload/take photos for analysis.
 - [x] Create ML Model using CreateML
 - [x] IOS APP Integegration with ML Model
