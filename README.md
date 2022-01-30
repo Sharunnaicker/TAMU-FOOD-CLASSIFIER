@@ -66,4 +66,4 @@ Models:
  - LICENSE.txt - Legal documentation
  - NOTICE.txt - Documentation for Authors, link, and license
  
-TAMU FOOD CLASSIFIER.xcodeproj - .xcode file (on runtime)
+TAMU FOOD CLASSIFIER.xcodeproj: .xcode file (on runtime)
